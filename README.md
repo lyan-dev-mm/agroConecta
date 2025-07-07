@@ -17,7 +17,6 @@
 
 lib/ ├── modules/ │ ├── auth/ │ ├── dashboard/ │ └── diagnostics/ ├── core/ │ ├── theme/ │ └── utils/ ├── routes/ └── main.dart
 
-
 ---
 
 ## 👥 Equipo
