@@ -1,0 +1,5 @@
+# Normaliza los saltos de línea automáticamente
+* text=auto
+
+# Para archivos Dart, asegúrate de LF si trabajas en colaboración multiplataforma
+*.dart text eol=lf
