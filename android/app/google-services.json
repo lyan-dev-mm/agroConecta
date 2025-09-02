@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614868499674",
+    "project_id": "agroconecta-82e7e",
+    "storage_bucket": "agroconecta-82e7e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614868499674:android:4f37640bf9130b6dad79e3",
+        "android_client_info": {
+          "package_name": "com.agroconecta.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd55JUzIyfyOyjUjRTLyFuZ9zYEW9Qyp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
