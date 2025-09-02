@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Flutter + Dart
 - Firebase (Firestore, Auth, Storage)
@@ -13,20 +13,20 @@
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 lib/ ├── modules/ │ ├── auth/ │ ├── dashboard/ │ └── diagnostics/ ├── core/ │ ├── theme/ │ └── utils/ ├── routes/ └── main.dart
 
 ---
 
-## 👥 Equipo
+## Equipo
 
 - **Líder técnico:** [lyan-dev-mm](https://github.com/lyan-dev-mm)
 - Otros miembros: por agregar
 
 ---
 
-## 📌 Estado del proyecto
+## Estado del proyecto
 
 - [x] Estructura base del proyecto
 - [x] Configuración de Firebase
